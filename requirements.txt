@@ -1,0 +1,7 @@
+pathpy2==2.2.0
+julia==0.6.1
+torch_geometric==2.3.1
+ipykernel==6.25.2
+notebook==7.0.5
+scikit-multilearn==0.2.0
+
